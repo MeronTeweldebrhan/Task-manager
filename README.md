@@ -25,6 +25,7 @@ A simple React + TypeScript application for managing tasks with filtering, statu
 
  ```
  ## Project Structure
+ ```
 src/
 ├── components/
 │   ├── TaskList.tsx       # Renders the list of tasks and applies filters
@@ -32,4 +33,4 @@ src/
 │   └── TaskItem.tsx       # Displays a single task with update/delete options
 ├── App.tsx                # Main app component managing task state and handlers
 ├── types.ts               # TypeScript interfaces .
-
+```
